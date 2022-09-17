@@ -24,4 +24,20 @@ Example
     
     "link": "https://www.youtube.com/watch?v=OMxeOiPwAcQ"
     
+    
+     "id":"10"
+     "courseTopic": "Kotlin",
+
+    "courseTitle": "Kotlin Full Course - Learn Kotlin in 4 Hours | Kotlin Tutorial | Kotlin Android Tutorial | Edureka",
+
+    "providedBy": "edureka",
+
+    "platform":"Youtube",
+
+    "duration": "4hr",
+
+    "domains": ["", "", ""],
+
+    "link": "https://www.youtube.com/watch?v=OMxeOiPwAcQ"
+    
 }
